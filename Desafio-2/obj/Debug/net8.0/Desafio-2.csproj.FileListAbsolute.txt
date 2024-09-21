@@ -1,0 +1,14 @@
+C:\Users\lieds\OneDrive\Área de Trabalho\Programação\Desafio-Target\Desafio-2\obj\Debug\net8.0\Desafio-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lieds\OneDrive\Área de Trabalho\Programação\Desafio-Target\Desafio-2\obj\Debug\net8.0\Desafio-2.AssemblyInfoInputs.cache
+C:\Users\lieds\OneDrive\Área de Trabalho\Programação\Desafio-Target\Desafio-2\obj\Debug\net8.0\Desafio-2.AssemblyInfo.cs
+C:\Users\lieds\OneDrive\Área de Trabalho\Programação\Desafio-Target\Desafio-2\obj\Debug\net8.0\Desafio-2.csproj.CoreCompileInputs.cache
+C:\Users\lieds\OneDrive\Área de Trabalho\Programação\Desafio-Target\Desafio-2\bin\Debug\net8.0\Desafio-2.exe
+C:\Users\lieds\OneDrive\Área de Trabalho\Programação\Desafio-Target\Desafio-2\bin\Debug\net8.0\Desafio-2.deps.json
+C:\Users\lieds\OneDrive\Área de Trabalho\Programação\Desafio-Target\Desafio-2\bin\Debug\net8.0\Desafio-2.runtimeconfig.json
+C:\Users\lieds\OneDrive\Área de Trabalho\Programação\Desafio-Target\Desafio-2\bin\Debug\net8.0\Desafio-2.dll
+C:\Users\lieds\OneDrive\Área de Trabalho\Programação\Desafio-Target\Desafio-2\bin\Debug\net8.0\Desafio-2.pdb
+C:\Users\lieds\OneDrive\Área de Trabalho\Programação\Desafio-Target\Desafio-2\obj\Debug\net8.0\Desafio-2.dll
+C:\Users\lieds\OneDrive\Área de Trabalho\Programação\Desafio-Target\Desafio-2\obj\Debug\net8.0\refint\Desafio-2.dll
+C:\Users\lieds\OneDrive\Área de Trabalho\Programação\Desafio-Target\Desafio-2\obj\Debug\net8.0\Desafio-2.pdb
+C:\Users\lieds\OneDrive\Área de Trabalho\Programação\Desafio-Target\Desafio-2\obj\Debug\net8.0\Desafio-2.genruntimeconfig.cache
+C:\Users\lieds\OneDrive\Área de Trabalho\Programação\Desafio-Target\Desafio-2\obj\Debug\net8.0\ref\Desafio-2.dll
